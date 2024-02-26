@@ -15,9 +15,11 @@
    * <b>DSA</b> - Data Structures and Algorithms (DSA) is a fundamental part of Computer Science that teaches you how to think and solve complex problems systematically. Using the right data structure and algorithm makes your program run faster, especially when working with lots of data.
      
    * <b>Binart Search Trees</b> - A Binary Search Tree is a data structure used in computer science for organizing and storing data in a sorted hierarchical manner. Each node in a Binary Search Tree has at most two children, a left child and a right child, with the left child containing values less than the parent node and the right child containing values greater than the parent node. This hierarchical structure allows for efficient searching, insertion, and deletion operations on the data stored in the tree.
+     
      ![image](https://github.com/Anirudh-lone-wolf/G1B5_DSA_Graded-Coding-Assignment-2_Question-2/assets/66291656/a0a6a56e-76c6-496e-9516-0228a168cd17)
      
    * <b>Skwewed Binart Search Trees</b> - A skewed binary tree is a type of binary tree in which all the nodes have only either one child or no child.
+     
      ![image](https://github.com/Anirudh-lone-wolf/G1B5_DSA_Graded-Coding-Assignment-2_Question-2/assets/66291656/844d3dce-76a0-42e3-82b6-894a4da9c9f3)
 
 
